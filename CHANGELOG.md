@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.1](https://github.com/Monska85/PixelArt/compare/v1.2.0...v1.2.1) (2026-10-30)
+
+
+### Fixed
+
+* **firmware:** harden wifi persistence and resource handling ([#35](https://github.com/Monska85/PixelArt/issues/35)) ([5460db5](https://github.com/Monska85/PixelArt/commit/5460db5ac295ad79eda40e53dac91a271d5cf65f))
+* **web:** harden requests and preserve browser state ([#37](https://github.com/Monska85/PixelArt/issues/37)) ([56141e6](https://github.com/Monska85/PixelArt/commit/56141e6d08f4240fe6f21316c9d1a36f2248f293))
+
 ## [1.2.0](https://github.com/Monska85/PixelArt/compare/v1.1.0...v1.2.0) (2026-10-29)
 
 
