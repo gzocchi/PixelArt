@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/Monska85/PixelArt/compare/web-v1.2.0...web-v1.2.1) (2026-10-30)
+
+
+### Fixed
+
+* **web:** harden requests and preserve browser state ([#37](https://github.com/Monska85/PixelArt/issues/37)) ([56141e6](https://github.com/Monska85/PixelArt/commit/56141e6d08f4240fe6f21316c9d1a36f2248f293))
+
 ## [1.2.0](https://github.com/Monska85/PixelArt/compare/web-v1.1.0...web-v1.2.0) (2026-10-29)
 
 
